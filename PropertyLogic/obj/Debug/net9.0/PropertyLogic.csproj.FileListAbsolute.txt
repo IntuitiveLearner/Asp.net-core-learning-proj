@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\bin\Debug\net9.0\PropertyLogic.exe
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\bin\Debug\net9.0\PropertyLogic.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\bin\Debug\net9.0\PropertyLogic.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\bin\Debug\net9.0\PropertyLogic.dll
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\bin\Debug\net9.0\PropertyLogic.pdb
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.dll
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\refint\PropertyLogic.dll
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.pdb
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\PropertyLogic.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\PropertyLogic\obj\Debug\net9.0\ref\PropertyLogic.dll

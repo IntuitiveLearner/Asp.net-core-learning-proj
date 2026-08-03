@@ -1,0 +1,121 @@
+LINQ - Language Integrated Query
+
+    -written in C#, we can query all types of dataset.
+        database, array, list, stack, xml, json, etc...
+
+    - it only does selection, not insertion
+
+
+    SQL: select * from employee where eid=101;
+
+    LINQ: 
+          from x in datasource
+          where x.eid=101
+          select x;
+
+
+LINQ query is faster than SQL. It is easier for parser to compute it.
+
+
+
+
+______________________________________________________________________________________
+
+#Exceptional Handling:
+    Error Vs Exceptional
+
+    Error:
+        Compile Time Error: it is not as expensive error
+            -Syntax Error
+            -
+
+        Run Time Error: has huge impact, because it is associated with user after the compilation
+            - program crash(memory full, network error, server down, database error like connection failure)
+
+            -and these are the exceptions
+
+
+        All exceptions are errors but not all errors are not exceptions.
+
+
+    ~Blocks to handle exceptions:
+        -try and catch are very important, try is followed by the catch block
+     try{
+        //code
+        // monitors exception
+     }
+     catch{
+        // handles the exception
+     }
+     finally -always runs(exception/no-exception)
+            -optional
+            -includes database disconnection code
+
+    ~Keywords
+        throw       - throws some message
+
+________________________________________________________________________________________________________________________
+
+
+Attributes in C#
+     
+
+
+    Types based on attribute creation:
+        Predefined & Custom
+    
+
+
+
+
+
+
+
+
+
+______________________________________________________________________________________________________________________
+
+# Event handling in C#
+
+    Event:
+        - change in state of obj is Event
+        - done with the use of delegates
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________________________________________________________________________________________________________
+
+ASP.NET core
+
+Model ->
+View ->
+Controller ->
+
+
+
+    Rules for creating controller:
+        -class
+        -use Controller Suffix...
+        -must inherit Controller class
+
+        - it has function inside which is called Action Method(function)
+            -method that runs as per user request...
+
+
+            URL: 
+                localhost/Controller_name/ActionMethod
+
+                localhost/Student/Insert
+        eg:
+            class StudentController : Controller{
+
+            }

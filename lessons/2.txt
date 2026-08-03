@@ -1,0 +1,21 @@
+// Array
+
+Types:
+1. 1D Array
+2. Multidimensional Array
+        -Rectangular 
+            no. of columns are fixed...
+
+                _ _ _
+                _ _ _
+                _ _ _
+        -Jagged 
+            non equal rows and columns..
+
+                _ _ _
+                _ 
+                _ _ 
+
+            it has array inside an array
+
+              

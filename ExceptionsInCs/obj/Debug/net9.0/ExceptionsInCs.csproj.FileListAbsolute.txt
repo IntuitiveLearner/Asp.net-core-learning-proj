@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\bin\Debug\net9.0\ExceptionsInCs.exe
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\bin\Debug\net9.0\ExceptionsInCs.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\bin\Debug\net9.0\ExceptionsInCs.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\bin\Debug\net9.0\ExceptionsInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\bin\Debug\net9.0\ExceptionsInCs.pdb
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\refint\ExceptionsInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.pdb
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ExceptionsInCs.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\ExceptionsInCs\obj\Debug\net9.0\ref\ExceptionsInCs.dll

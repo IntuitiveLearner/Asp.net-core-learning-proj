@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\bin\Debug\net9.0\PartialClass.exe
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\bin\Debug\net9.0\PartialClass.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\bin\Debug\net9.0\PartialClass.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\bin\Debug\net9.0\PartialClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\bin\Debug\net9.0\PartialClass.pdb
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\refint\PartialClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.pdb
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\PartialClass.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\PartialClass\obj\Debug\net9.0\ref\PartialClass.dll

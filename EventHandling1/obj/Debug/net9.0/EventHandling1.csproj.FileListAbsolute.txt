@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\bin\Debug\net9.0\EventHandling1.exe
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\bin\Debug\net9.0\EventHandling1.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\bin\Debug\net9.0\EventHandling1.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\bin\Debug\net9.0\EventHandling1.dll
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\bin\Debug\net9.0\EventHandling1.pdb
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.dll
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\refint\EventHandling1.dll
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.pdb
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\EventHandling1.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\EventHandling1\obj\Debug\net9.0\ref\EventHandling1.dll

@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\bin\Debug\net9.0\AttributesInCs.exe
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\bin\Debug\net9.0\AttributesInCs.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\bin\Debug\net9.0\AttributesInCs.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\bin\Debug\net9.0\AttributesInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\bin\Debug\net9.0\AttributesInCs.pdb
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\refint\AttributesInCs.dll
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.pdb
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\AttributesInCs.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\AttributesInCs\obj\Debug\net9.0\ref\AttributesInCs.dll

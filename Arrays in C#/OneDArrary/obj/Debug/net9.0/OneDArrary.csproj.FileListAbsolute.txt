@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\bin\Debug\net9.0\OneDArrary.exe
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\bin\Debug\net9.0\OneDArrary.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\bin\Debug\net9.0\OneDArrary.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\bin\Debug\net9.0\OneDArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\bin\Debug\net9.0\OneDArrary.pdb
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\refint\OneDArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.pdb
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\OneDArrary.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\OneDArrary\obj\Debug\net9.0\ref\OneDArrary.dll

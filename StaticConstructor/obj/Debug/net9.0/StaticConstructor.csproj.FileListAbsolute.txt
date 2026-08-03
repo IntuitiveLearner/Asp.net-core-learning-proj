@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\bin\Debug\net9.0\StaticConstructor.exe
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\bin\Debug\net9.0\StaticConstructor.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\bin\Debug\net9.0\StaticConstructor.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\bin\Debug\net9.0\StaticConstructor.dll
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\bin\Debug\net9.0\StaticConstructor.pdb
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.dll
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\refint\StaticConstructor.dll
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.pdb
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\StaticConstructor.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\StaticConstructor\obj\Debug\net9.0\ref\StaticConstructor.dll

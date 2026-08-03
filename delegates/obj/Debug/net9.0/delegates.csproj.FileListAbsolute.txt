@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\delegates\bin\Debug\net9.0\delegates.exe
+D:\Codes - Sachin Raut 2080\dotnet\delegates\bin\Debug\net9.0\delegates.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\delegates\bin\Debug\net9.0\delegates.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\delegates\bin\Debug\net9.0\delegates.dll
+D:\Codes - Sachin Raut 2080\dotnet\delegates\bin\Debug\net9.0\delegates.pdb
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.dll
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\refint\delegates.dll
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.pdb
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\delegates.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\delegates\obj\Debug\net9.0\ref\delegates.dll

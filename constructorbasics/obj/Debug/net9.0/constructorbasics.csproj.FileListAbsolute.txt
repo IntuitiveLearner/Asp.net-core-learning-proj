@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\bin\Debug\net9.0\constructorbasics.exe
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\bin\Debug\net9.0\constructorbasics.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\bin\Debug\net9.0\constructorbasics.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\bin\Debug\net9.0\constructorbasics.dll
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\bin\Debug\net9.0\constructorbasics.pdb
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.dll
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\refint\constructorbasics.dll
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.pdb
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\constructorbasics.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\constructorbasics\obj\Debug\net9.0\ref\constructorbasics.dll

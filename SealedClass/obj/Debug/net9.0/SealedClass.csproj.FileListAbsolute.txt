@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\bin\Debug\net9.0\SealedClass.exe
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\bin\Debug\net9.0\SealedClass.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\bin\Debug\net9.0\SealedClass.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\bin\Debug\net9.0\SealedClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\bin\Debug\net9.0\SealedClass.pdb
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\refint\SealedClass.dll
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.pdb
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\SealedClass.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\SealedClass\obj\Debug\net9.0\ref\SealedClass.dll

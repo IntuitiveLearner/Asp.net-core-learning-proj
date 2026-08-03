@@ -1,0 +1,14 @@
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\bin\Debug\net9.0\RectArrary.exe
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\bin\Debug\net9.0\RectArrary.deps.json
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\bin\Debug\net9.0\RectArrary.runtimeconfig.json
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\bin\Debug\net9.0\RectArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\bin\Debug\net9.0\RectArrary.pdb
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.AssemblyInfoInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.AssemblyInfo.cs
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.csproj.CoreCompileInputs.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\refint\RectArrary.dll
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.pdb
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\RectArrary.genruntimeconfig.cache
+D:\Codes - Sachin Raut 2080\dotnet\Arrays in C#\RectArrary\obj\Debug\net9.0\ref\RectArrary.dll

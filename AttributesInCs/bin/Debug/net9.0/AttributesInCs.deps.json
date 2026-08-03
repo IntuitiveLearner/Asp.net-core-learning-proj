@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AttributesInCs/1.0.0": {
+        "runtime": {
+          "AttributesInCs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributesInCs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

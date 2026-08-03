@@ -1,0 +1,29 @@
+
+
+Property in .NET
+
+Property:
+    - written like field (variable) but contains logic like method(function)
+
+    string name{get; set;}      // automatic property
+
+        get -> return value
+        set -> sets value to variable
+
+
+        property logic:
+         Ex.1
+         int a {            
+            get{return a;}
+            set(a = value;)
+         }
+
+         Ex.2
+         int a (
+            get{return a+10;}
+            set(a = value+30;)
+         )
+
+    -> There was already normal variable and function in C#, but why is property needed in C#?
+    -> It is necessary for encapsulation in C#
+    -> It enables us to use private data of a class outside of the class using property logic.
