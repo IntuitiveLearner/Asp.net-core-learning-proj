@@ -95,3 +95,4 @@ D:\Codes - Sachin Raut 2080\dotnet\FirstMVC\Csit\obj\Debug\net9.0\refint\Csit.dl
 D:\Codes - Sachin Raut 2080\dotnet\FirstMVC\Csit\obj\Debug\net9.0\Csit.pdb
 D:\Codes - Sachin Raut 2080\dotnet\FirstMVC\Csit\obj\Debug\net9.0\Csit.genruntimeconfig.cache
 D:\Codes - Sachin Raut 2080\dotnet\FirstMVC\Csit\obj\Debug\net9.0\ref\Csit.dll
+D:\Codes - Sachin Raut 2080\dotnet\FirstMVC\Csit\obj\Debug\net9.0\Csit.sourcelink.json
