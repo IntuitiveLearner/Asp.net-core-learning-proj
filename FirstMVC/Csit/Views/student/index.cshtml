@@ -1,5 +1,7 @@
-
+@model Student
 <h3>This is a view</h3>
-<h2>Name: @ViewBag.Name</h2>
+@* <h2>Name: @ViewBag.Name</h2>
 <h2>Address: @ViewBag.Address</h2>
-<h2>Phone: @ViewData["Phone"]</h2>
+<h2>Phone: @ViewData["Phone"]</h2> *@
+<h2>Name: @Model.name</h2>
+<h2>Address: @Model.address</h2>

@@ -5,10 +5,12 @@ public class StudentController : Controller
 {
     public IActionResult Index()
     {
-        ViewBag.Name = "Sachin Raut";
-        ViewBag.Address = "Itabhatta";
-        ViewData["Phone"] = "9800000000";
-        return View();
+        // ViwBag.Name = "Sachin Raut";
+        // ViewBag.Address = "Itabhatta, Jhapa";
+        Student st = new Student();
+        st.name = "Sachin Raut";
+        st.address= "Itabhatta, Jhapa";
+        return View(st);
     }
 }
 
